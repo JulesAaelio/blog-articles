@@ -3,6 +3,7 @@ name: 'Test article'
 slug: 'test-article'
 description: 'This is my first and cool post ...'
 category: ['Tests']
+tags: ['test']
 ---
 
 # Markdown: Syntax
