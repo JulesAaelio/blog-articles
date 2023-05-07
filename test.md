@@ -1,3 +1,11 @@
+---
+name: 'Test article'
+slug: 'test-article'
+description: 'This is my first and cool post ...'
+category: ['Tests']
+status: 'draft'
+---
+
 # Markdown: Syntax
 
 *   [Overview](#overview)
